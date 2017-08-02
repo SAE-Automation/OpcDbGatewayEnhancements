@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ParamChildStdOutReader",
+    "\\ParamChildStdOutReader\\Configurations"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\ParamChildStdOutReader\\Using Standard Streams of a Child Process to implement plugins.md",
   "PreviewInSolutionExplorer": false
 }
