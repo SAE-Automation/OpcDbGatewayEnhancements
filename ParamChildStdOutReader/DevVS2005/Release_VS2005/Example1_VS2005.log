@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  ChildStdoutReader.cpp
+  ComVariantEx.cpp
+  CS.cpp
+  Example1.cpp
+  Logger.cpp
+  ObjectError.cpp
+  ProcessImageMemory.cpp
+  Generating Code...
+     Creating library Release_VS2005\Example1.lib and object Release_VS2005\Example1.exp
+  Example1_VS2005.vcxproj -> D:\MsDev\2016\visual studio 2015\Projects\Example1\Release_VS2005\Example1.dll
+  Example1_VS2005.vcxproj -> Release_VS2005\Example1.pdb (Full PDB)
