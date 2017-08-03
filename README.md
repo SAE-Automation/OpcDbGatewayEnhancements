@@ -45,3 +45,27 @@ Standard installation places different files and directories to your  directory 
 
 
 Anyway, before using any configuration from this Github repository, it is useful to use the configuration checking functionality of the OpcDbGateway configurator and solve all errors and warnings.
+
+## Project repositories
+
+### [OpcDbGatewayToMQTT](https://github.com/SAE-Automation/OpcDbGatewayEnhancements/tree/master/OpcDbGatewayToMQTT)
+
+Easy configuration for publishing of messages from OpcDbGateway runtime to MQTT broker.
+
+### [Simulation of simple dynamic system](https://github.com/jakubpalacka/MyFirstStepsWithOpcDbGateway)
+
+For those who are starting to develop their own applications using OpcDbGateway, it may be interesting to have a detailed description of each step in creating an application to simulate a simple dynamic system - processed by high school student. It demonstrates:
+
+* Basic concepts of implementing application logic using configurator,
+* connecting of DDE servers,
+* working with process database,
+* visualization of OpcDbGateway application using MS Excel.
+
+### [Using standard streams of a child process to implement plugins](https://github.com/SAE-Automation/OpcDbGatewayEnhancements/tree/master/ParamChildStdOutReader)
+
+The project demonstrates:
+
+* Creation of plugins for OpcDbGateway using standard streams,
+* parameterizing of continuously running plugin from configuration,
+* publish/subscribe communication with MQTT broker.
+
