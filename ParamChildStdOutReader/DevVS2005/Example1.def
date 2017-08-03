@@ -1,0 +1,18 @@
+; Example1.def : Declares the module parameters for the DLL.
+
+;LIBRARY      "Example1"
+
+EXPORTS
+    ; Explicit exports can go here
+
+	; DLL Info
+	GetProductName			@1
+	GetProductVersion		@2
+	GetCompanyName			@3
+	GetLegalCopyright		@4
+	GetDescription			@5   
+	GetCountOfIO			@6
+	DoProcessIO				@7
+	OnInitMemory			@8
+	OnStart					@9
+	OnStop					@10
