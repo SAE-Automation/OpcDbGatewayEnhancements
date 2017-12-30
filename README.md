@@ -20,7 +20,7 @@ It is *application software development environment* consisting of IDE (GUI) for
 SAEAUT SCADA software package has the same functionality as OpcDbGateway but it contains also universal web UI.
 
 * [Product web](http://www.saeautom.sk/sk/products/scada)
-* OpcDbGatway downloads: [first](http://www.saeautom.sk/download/products/opcgway/SAEAUT_SCADA_Setup.zip),
+* SAEAUT SCADA downloads: [first](http://www.saeautom.sk/download/products/opcgway/SAEAUT_SCADA_Setup.zip),
   [second](http://home.gts.sk/saeautomation/products/opcdbgw/SAEAUT_SCADA_Setup.zip)
 * Documentation [pdf](http://www.saeautom.sk/download/help/SaeautScadaHelp.pdf), [web](http://home.gts.sk/saeautomation/help/saeautscada2/index.html)
 
